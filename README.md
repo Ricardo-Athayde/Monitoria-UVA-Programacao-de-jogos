@@ -15,6 +15,7 @@ Nesse projeto você encontra muitos conceitos básicos da Unity como:
 - Encontrar referencias a componentes nos objetos (Player)
 
 [**Timelapse da criacao do projeto 1.0**](https://www.youtube.com/watch?v=wBcWM6erTHY)
+
 **Start Point**
 
 Arquivos iniciais para criação do jogo. Utilizei [essas](https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662) artes encontradas na [Unity Asset Store](https://assetstore.unity.com/).
