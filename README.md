@@ -2,8 +2,6 @@
 Aqui você vai encontrar pequenos projetos feitos na Unity com objetivo de ajudar os alunos da Universidade Veiga de Almeida nas aulas de Programação de jogos.
 
 ## Space Shooter
-**Um Timelapse da criação do projeto será disponibilizado no youtube em algum momento.**
-
 Jogo de nave espacial onde o objetivo é desviar dos asteroides que aparecem aleatoriamente no topo da tela. O projeto foi feito visando o fácil entendimento e aprendizado. Existem maneiras melhores de se chegar ao mesmo resultado.
 
 Nesse projeto você encontra muitos conceitos básicos da Unity como:
@@ -16,6 +14,7 @@ Nesse projeto você encontra muitos conceitos básicos da Unity como:
 - Troca de cenas (MainMenu, DeadHUD)
 - Encontrar referencias a componentes nos objetos (Player)
 
+[**Timelapse da criacao do projeto 1.0**](https://www.youtube.com/watch?v=wBcWM6erTHY)
 **Start Point**
 
 Arquivos iniciais para criação do jogo. Utilizei [essas](https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662) artes encontradas na [Unity Asset Store](https://assetstore.unity.com/).
