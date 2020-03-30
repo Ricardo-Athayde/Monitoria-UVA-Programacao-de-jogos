@@ -14,7 +14,7 @@ Nesse projeto você encontra muitos conceitos básicos da Unity como:
 - Troca de cenas (MainMenu, DeadHUD)
 - Encontrar referencias a componentes nos objetos (Player)
 
-[**Timelapse da criacao do projeto 1.0**](https://www.youtube.com/watch?v=wBcWM6erTHY)
+[**Timelapse da criacao do projeto 1.0**](https://youtu.be/V7-I4G95FI0)
 
 **Start Point**
 
